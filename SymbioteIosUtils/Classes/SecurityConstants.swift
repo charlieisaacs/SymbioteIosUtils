@@ -9,7 +9,6 @@ import Foundation
 For consistentcy this class is based on java code from eu.h2020.symbiote.security  https://github.com/symbiote-h2020/SymbIoTeSecurity/blob/develop/src/main/java/eu/h2020/symbiote/security/commons/SecurityConstants.java
 */
 public class SecurityConstants{
-    public static let  serialVersionUID = 7526472295622776147;
     
     // Security GLOBAL
     public static let CURVE_NAME = "secp256r1";
