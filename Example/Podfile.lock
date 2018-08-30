@@ -1,15 +1,22 @@
 PODS:
-  - SymbioteIosUtils (0.1.0)
+  - AsyncSwift (2.0.4)
+  - SymbioteIosUtils (0.1.0):
+    - AsyncSwift
 
 DEPENDENCIES:
   - SymbioteIosUtils (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AsyncSwift
 
 EXTERNAL SOURCES:
   SymbioteIosUtils:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SymbioteIosUtils: f882e6351fd41eb844d36844a63df90e1c2fa99b
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  SymbioteIosUtils: fdbf18ddda2cb7e16bd45ccb5743b6f8b4060336
 
 PODFILE CHECKSUM: 60888cc10f3914279c1214aeb8fbbf0ed699ead2
 

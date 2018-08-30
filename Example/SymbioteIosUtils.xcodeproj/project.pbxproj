@@ -286,10 +286,12 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-SymbioteIosUtils_Example/Pods-SymbioteIosUtils_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AsyncSwift/Async.framework",
 				"${BUILT_PRODUCTS_DIR}/SymbioteIosUtils/SymbioteIosUtils.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Async.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SymbioteIosUtils.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
