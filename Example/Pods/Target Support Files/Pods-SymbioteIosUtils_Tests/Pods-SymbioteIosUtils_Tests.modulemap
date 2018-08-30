@@ -1,0 +1,6 @@
+framework module Pods_SymbioteIosUtils_Tests {
+  umbrella header "Pods-SymbioteIosUtils_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

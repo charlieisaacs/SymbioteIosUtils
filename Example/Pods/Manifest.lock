@@ -1,0 +1,16 @@
+PODS:
+  - SymbioteIosUtils (0.1.0)
+
+DEPENDENCIES:
+  - SymbioteIosUtils (from `../`)
+
+EXTERNAL SOURCES:
+  SymbioteIosUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SymbioteIosUtils: f882e6351fd41eb844d36844a63df90e1c2fa99b
+
+PODFILE CHECKSUM: 60888cc10f3914279c1214aeb8fbbf0ed699ead2
+
+COCOAPODS: 1.5.3

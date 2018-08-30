@@ -1,0 +1,6 @@
+framework module Pods_SymbioteIosUtils_Example {
+  umbrella header "Pods-SymbioteIosUtils_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
