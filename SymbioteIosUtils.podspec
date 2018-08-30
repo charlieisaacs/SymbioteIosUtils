@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 A short description of SymbioteIosUtils.
                        DESC
                        
-  spec.swift_version = '3.2'
+  s.swift_version = '3.2'
   s.homepage         = 'https://github.com/symbiote-h2020/SymbioteIosUtils'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
