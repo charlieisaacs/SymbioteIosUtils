@@ -1,7 +1,9 @@
 PODS:
   - AsyncSwift (2.0.4)
+  - SwiftyJSON (4.1.0)
   - SymbioteIosUtils (0.1.0):
     - AsyncSwift
+    - SwiftyJSON
 
 DEPENDENCIES:
   - SymbioteIosUtils (from `../`)
@@ -9,6 +11,7 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - AsyncSwift
+    - SwiftyJSON
 
 EXTERNAL SOURCES:
   SymbioteIosUtils:
@@ -16,7 +19,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
-  SymbioteIosUtils: fdbf18ddda2cb7e16bd45ccb5743b6f8b4060336
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  SymbioteIosUtils: 273895f69196ff5cccb52ab158ff5c97db374db2
 
 PODFILE CHECKSUM: 60888cc10f3914279c1214aeb8fbbf0ed699ead2
 
